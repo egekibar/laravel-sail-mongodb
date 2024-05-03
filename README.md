@@ -4,6 +4,13 @@
 
 [You Can Review All The Changes Here](https://github.com/egekibar/laravel-sail-mongodb/commit/e0aea713776d245a598bc16a814527dcff8982ca)
 
+## Run this code if you forked
+````shell
+composer install —ignore-platform-reqs
+npm install
+./vendor/bin/sail up -d
+````
+
 ### Step 1 - Laravel Setup
 Create a Laravel project. **If you already have a Laravel project, skip this step.**
 ```shell
