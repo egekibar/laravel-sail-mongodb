@@ -4,7 +4,7 @@
 
 [You Can Review All The Changes Here](https://github.com/egekibar/laravel-sail-mongodb/commit/e0aea713776d245a598bc16a814527dcff8982ca)
 
-#### Run this code if you forked
+#### Run this code if you cloned
 ````shell
 composer install —ignore-platform-reqs
 npm install
